@@ -1,0 +1,3 @@
+D:/Desktop/learn/test C++/ProjectA/SpeachContestManager/cmake-build-debug/CMakeFiles/SpeechContestManager.dir
+D:/Desktop/learn/test C++/ProjectA/SpeachContestManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/learn/test C++/ProjectA/SpeachContestManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+182	5327	6752818139394713	CMakeFiles/SpeachContestManager.dir/main.cpp.obj	dcc345b81fae29de
+76	2014	6752464439231058	CMakeFiles/SpeachContestManager.dir/Competitor.cpp.obj	54be24e21c2239d0
+8	6131	6752818147420657	CMakeFiles/SpeachContestManager.dir/SpeechManager.cpp.obj	626553102f30bd81
+6132	7664	6752818162637956	SpeachContestManager.exe	200c3f4f354c49cd
